@@ -1,0 +1,4 @@
+rootProject.name = "Andersen Implicit Intents"
+include ':app'
+include ':app:implicitintentsreceiver'
+include ':implicitintentsreceiver'
